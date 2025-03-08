@@ -1,0 +1,26 @@
+{
+  "standardGreen": {
+    "dark": "0xFF07280C",
+    "light": "0xFFfae9bd"
+  },
+  "ashNight": {
+    "dark": "0xFF080F0F",
+    "light": "0xFFA4BAB7"
+  },
+  "richBlackBlue": {
+    "dark": "0xFF0D1B1E",
+    "light": "0xFF7798AB"
+  },
+  "whitePink": {
+    "dark": "0xFFFF6978",
+    "light": "0xFFFFFCF9"
+  },
+  "liliacGrey": {
+    "dark": "0xff8D6A9F",
+    "light": "0xffC5CBD3"
+  },
+  "forestGreen": {
+    "dark": "0xff423629",
+    "light": "0xff4F5D2F"
+  }
+}
