@@ -10,6 +10,7 @@ Pomofi is an upcoming Pomodoro app for Android (and possibly iOS) with a minimal
 ## Planned Features 🚀
 - Custom color theme creation
 - Font selection
+- Option to set own times for work and relax modes
 - Monetization support (no ads or subscriptions—only purchasable themes and fonts)
 - Music control for work/relax modes (disabled by default), with possible integrations
 - Google account login with settings synchronization
